@@ -71,21 +71,19 @@ This project analyzes online retail transactions to help businesses understand s
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ### Executive Dashboard
 
-![Dashboard](images/dashboard1.png)
+![Executive Dashboard](images/dashboard1.png)
 
-### Customer Segmentation
+### Top Products & Sales Analysis
 
-![Dashboard](images/dashboard2.png)
+![Top Products](images/dashboard2.png)
 
-### Sales Performance
+### Price vs Quantity Analysis
 
-![Dashboard](images/dashboard3.png)
-
----
+![Price vs Quantity](images/dashboard3.png)
 
 ## 📁 Repository Structure
 
